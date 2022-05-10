@@ -36,7 +36,7 @@
             android:layout_marginHorizontal="25dp"/>
 
         <EditText
-            android:id="@+id/edhei"
+            android:id="@+id/edwei"
             android:layout_width="match_parent"
             android:layout_height="55dp"
             android:background="#ffff"
