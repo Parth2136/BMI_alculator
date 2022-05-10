@@ -64,7 +64,6 @@ public class MainActivity extends AppCompatActivity {
                 txtres.setText("");
             }
         });
-
     }
     public float BMICalculate(float weight,float height){
         return weight / (height * height);
